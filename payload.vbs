@@ -1,0 +1,2 @@
+REM TEST
+x=msgbox("~$ ALL_WORKED = TRUE?", 4+16, "123TEST321")
